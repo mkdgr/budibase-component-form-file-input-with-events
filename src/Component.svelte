@@ -93,7 +93,7 @@
         >
           <input
             {value}
-            type="text"
+            type="file"
             {placeholder}
             inputmode="text"
             on:blur={handleInputBlur}
